@@ -49,6 +49,11 @@ img {
 width: 25rem;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
 footer {
     display: flex;
     flex-direction: row;
